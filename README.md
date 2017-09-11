@@ -1,0 +1,2 @@
+# QueenMcluckey_Algo_implemented_in_MATLAB
+Queen-Mckluskey algorithm implemented in MATLAB
